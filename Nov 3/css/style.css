@@ -1,0 +1,32 @@
+@font-face {
+  font-family: pretendo;
+  src: url(../pretendo.ttf);
+}
+
+body{
+  background-color: #EBDEF0;
+}
+
+#box{
+  background-color: white;
+  width: 60%;
+  margin-left: 20%;
+}
+
+#header{
+  font-family: pretendo;
+  color: #ffa500;
+  text-align: center;
+  margin-top: 5%;
+  font-size: 300%;
+}
+
+#code-image{
+  text-align: center;
+  width: 100%;
+  height: auto;
+}
+
+hr{
+  border-top: 1px dashed red;
+}
